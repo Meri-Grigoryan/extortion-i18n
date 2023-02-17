@@ -1,11 +1,11 @@
 {
   "new_game": "Նոր Խաղ",
-  "continue_game": "Continue Game",
-  "settings": "Settings",
-  "quit_game": "Quit Game",
-  "sound": "Sound",
-  "music": "Music",
-  "scale": "Scale",
-  "menu_back": "Back to menu",
-  "settings-translations-link": "Participate in translations"
+  "continue_game": "Շարունակել Խաղը",
+  "settings": "Կարգավորումներ",
+  "quit_game": "Դուրս գալ խաղից",
+  "sound": "Ձայն",
+  "music": "Երաժշտություն",
+  "scale": "Սանդղակ",
+  "menu_back": "Վերադառնալ մենյու",
+  "settings-translations-link": "Մասնակցեք թարգմանություններին "
 }
